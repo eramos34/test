@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CC6A-301D
+
+ Directory of C:\Users\Kuroneko\Desktop\test
+
+03/24/2017  12:21 PM    <DIR>          .
+03/24/2017  12:21 PM    <DIR>          ..
+03/24/2017  12:21 PM               371 .gitignore
+03/24/2017  12:21 PM                 0 d.txt
+03/24/2017  12:21 PM                13 README.md
+               3 File(s)            384 bytes
+               2 Dir(s)  58,953,678,848 bytes free
